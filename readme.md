@@ -12,7 +12,7 @@ This is a Docker image that after being built and ran, greets hello world in bro
 
 └── src
 
-    └── index.php
+   └── index.php
 
 # Building the Docker image
 
