@@ -13,7 +13,7 @@ Run the following command in the command line to build the image.
 
 *NOTE*: This may take some time due to the fetching of the images that are required.
 
-#Running the container
+# Running the container
 
 ```docker run -p 80:80 hello-docker``` shall do.
 
